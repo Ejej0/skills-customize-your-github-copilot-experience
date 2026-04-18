@@ -4,7 +4,7 @@ applyTo: "assignments/**/README.md"
 
 # Assignment Markdown Structure Guidelines
 
-Assignment files should be written as `README.md` documents inside their assignment folder and should follow the template in [templates/assignment-template.md](../../templates/assignment-template.md).
+Assignment files should be written as `README.md` documents inside their assignment folder and should follow the template in [templates/assignment-template.md](../../../templates/assignment-template.md).
 
 ## Required Structure
 
